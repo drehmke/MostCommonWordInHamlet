@@ -1,0 +1,6 @@
+C:\programming\FullStackDotNet\WeekThree\MostCommonWordInHamlet\MostCommonWordInHamlet\bin\Debug\MostCommonWordInHamlet.exe.config
+C:\programming\FullStackDotNet\WeekThree\MostCommonWordInHamlet\MostCommonWordInHamlet\bin\Debug\MostCommonWordInHamlet.exe
+C:\programming\FullStackDotNet\WeekThree\MostCommonWordInHamlet\MostCommonWordInHamlet\bin\Debug\MostCommonWordInHamlet.pdb
+C:\programming\FullStackDotNet\WeekThree\MostCommonWordInHamlet\MostCommonWordInHamlet\obj\Debug\MostCommonWordInHamlet.csprojResolveAssemblyReference.cache
+C:\programming\FullStackDotNet\WeekThree\MostCommonWordInHamlet\MostCommonWordInHamlet\obj\Debug\MostCommonWordInHamlet.exe
+C:\programming\FullStackDotNet\WeekThree\MostCommonWordInHamlet\MostCommonWordInHamlet\obj\Debug\MostCommonWordInHamlet.pdb
